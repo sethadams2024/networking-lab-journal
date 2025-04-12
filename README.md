@@ -30,7 +30,9 @@ Day 1
 - After configuring it as a Dynamic IP, the system is up. Due to being very old, I am maxed at roughly 94Mbps.
 
 Configuring various settings
-- I had to update the time so I found how to set the NTP (Network Time Protocol) to time.google.com and it connected!
-- Have to update it, which means I needed to save the config before updating
+- I had to update the time, so I found how to set the NTP (Network Time Protocol) to time.google.com and it connected!
+- Have to update it, which means I need to save the config before updating
 
-
+UPDATE:
+THAT WAS THE WORST MISTAKE I HAVE EVER MADE. I bricked the router and cannot access it at all. I have tried just about everything, and nothing is working to get it back online
+TLDR: I bricked and killed my first router on the first day. 
