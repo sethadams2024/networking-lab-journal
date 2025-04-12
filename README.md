@@ -23,4 +23,6 @@ Setting up the DLINK
 - Plugged the main Ethernet into it:
 - Plugged LANN1 into my gaming pc to configure it
       - Interestingly enough, it started working immediately. I don't understand why yet.
-- Ok, I cannot access the configuration menu and need to reset the thing. The device says to not change the password but the previous owner did otherwise.
+- Ok, I cannot access the configuration menu and need to reset the thing. The device says not to change the password, but the previous owner did otherwise.
+- Figured it out, held the reset for 15 seconds with my new screwdriver set "Mechmax" highly recommend for small screws and smaller needed tools.
+- After configuring it as a Dynamic IP, the system is up. Due to being very old, I am maxed at roughly 94Mbps.
