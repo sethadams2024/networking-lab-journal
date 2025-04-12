@@ -19,3 +19,8 @@ Day 1
   - I am also a Master's student in Information Science, and that is a higher priority.
   - I am also studying for A+ certification, and doing Cisco's "Network Technician" Badge course.
   
+Setting up the DLINK
+- Plugged the main Ethernet into it:
+- Plugged LANN1 into my gaming pc to configure it
+      - Interestingly enough, it started working immediately. I don't understand why yet.
+- Ok, I cannot access the configuration menu and need to reset the thing. The device says to not change the password but the previous owner did otherwise.
