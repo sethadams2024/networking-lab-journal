@@ -18,11 +18,19 @@ Day 1
   - Connect the D-Link and be able to configure it in different ways and learn about what it can do. I also saw that I can flash something onto it and make it more powerful.
   - I am also a Master's student in Information Science, and that is a higher priority.
   - I am also studying for A+ certification, and doing Cisco's "Network Technician" Badge course.
-  
-Setting up the DLINK
+ 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Setting up the DLINK**
 - Plugged the main Ethernet into it:
 - Plugged LANN1 into my gaming pc to configure it
       - Interestingly enough, it started working immediately. I don't understand why yet.
 - Ok, I cannot access the configuration menu and need to reset the thing. The device says not to change the password, but the previous owner did otherwise.
 - Figured it out, held the reset for 15 seconds with my new screwdriver set "Mechmax" highly recommend for small screws and smaller needed tools.
 - After configuring it as a Dynamic IP, the system is up. Due to being very old, I am maxed at roughly 94Mbps.
+
+Configuring various settings
+- I had to update the time so I found how to set the NTP (Network Time Protocol) to time.google.com and it connected!
+- Have to update it, which means I needed to save the config before updating
+
+
