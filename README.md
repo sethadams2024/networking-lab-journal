@@ -36,3 +36,5 @@ Configuring various settings
 UPDATE:
 THAT WAS THE WORST MISTAKE I HAVE EVER MADE. I bricked the router and cannot access it at all. I have tried just about everything, and nothing is working to get it back online
 TLDR: I bricked and killed my first router on the first day. 
+
+Now that its dead basically, I am going to open it and see the parts of it. I will put screenshots in the wiki!
