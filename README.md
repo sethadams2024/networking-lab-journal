@@ -51,3 +51,9 @@ Day 2
 - Side note: Want to slowly upgrade my old gaming PC with parts during this journey. Stay Tuned. On to day 3!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 3 04.13.25
+I redid my RAM quiz and got 10/10. I wonder why I answered these questions a different way. 
+
+I completed the Udemy Firmware section. On to the book now. I never realized that the UEFI was an updated BIOS, I thought it was just a BIOS. I also didn't know about POST, Boot passwords, and how the power good wire for the CPU to start BIOS (UEFI)
+
+I have other items to do, I shall return.
