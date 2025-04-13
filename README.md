@@ -38,5 +38,16 @@ THAT WAS THE WORST MISTAKE I HAVE EVER MADE. I bricked the router and cannot acc
 
 TLDR: I bricked and killed my first router on the first day. 
 
+
 Now that it's dead basically, I am going to open it and see the parts of it. I will put screenshots in the wiki!
-Update: It is taken apart. That is it for Day 1!
+Update: It has been taken apart. That is it for Day 1!
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 2
+- Today, I was very busy with other priorities. But I made progress nonetheless.
+- I finished the RAM chapter of A+, now onto BIOS tomorrow. I need to read around 20 pages a day if I want to be ready by June 17.  Actually, with my honeymoon, I need to push it to July
+- I also bought new network equipment. I bought a NETGEAR 5-Port Gigabit Ethernet Easy Smart Managed Essentials Switch (GS305E). This time I will not brick it!
+- I got a N300 Wifi Router 2.4 GHz Easy Setup. up to 300Mbps. It's not great, but I still want to try setting it up in my bedroom.
+- Side note: Want to slowly upgrade my old gaming PC with parts during this journey. Stay Tuned. On to day 3!
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
