@@ -11,3 +11,9 @@ My code must have been deleted due to my error, so here is what has happened so 
 The reset process was stuck on 22%, so I forced it to shut down, and then I powered it on. Now it is Windows setup for Windows 10.
 
 I forgot to disconnect the internet to bypass user creation, but it's fine. I made sure to limit every bit of control Microsoft can have since it's a very old computer.
+
+I got into the system and looked around
+- created two system accounts to eventually test password resets with
+
+I updated the system to a new software version, and it's been slow, but it's expected. I will "Submit a ticket" to resolve the issue by installing a new SSD when the system clears.
+then it will teach me how to clone the OS and then move the boot to the SSD (need the UEFI for that)
