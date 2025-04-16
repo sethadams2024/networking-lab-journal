@@ -16,4 +16,27 @@ I got into the system and looked around
 - created two system accounts to eventually test password resets with
 
 I updated the system to a new software version, and it's been slow, but it's expected. I will "Submit a ticket" to resolve the issue by installing a new SSD when the system clears.
-then it will teach me how to clone the OS and then move the boot to the SSD (need the UEFI for that)
+Then it will teach me how to clone the OS and then move the boot to the SSD (need the UEFI for that). It finally updated, on to the next Phase
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Componnets of the PC
+1. Download and installed CPU-Z to the desktop
+2. Opened it and looked at the various components.
+
+CPU: AMD A10-7800
+Motherboard: Lenovo Bantry CRB PCIE 3.0 (8.0GT/s)
+Memory: 1 stick of 12gb DDR3 1600Mhz, another 1 stick of 4gb DDR3 1600MHz
+No GPU, graphics through the A10
+
+Potential Upgrades in the future: 
+- Simple SSD 
+- Upgrade Ram to a higher DDR3 speed
+- potentially upgrade CPU FAN and CPU?
+
+I don't want to risk the various components when I am treating this as a workstation.
+------------------------------------------------------------------------------------------------------------------------------------------
+Installing Users
+1. Go to Settings -> account -> Family and other users
+2. I skipped adding emails and what not and added 2 users (User1111) and (User2222) and my own account. The other two are standard accounts and 
+cannot have admin permissions.
+----------------------------------------------------------------------------------------------------------------------------------------
