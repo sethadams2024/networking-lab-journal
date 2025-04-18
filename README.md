@@ -10,6 +10,7 @@ I recently delved full into networking as the future of my career path, and I am
 
 I will clean this up over time.
 
-[Creating my own LAN](Creating A LAN.md)
+[Creating my own LAN](/Creating_A_LAN.md)
+
 
 
