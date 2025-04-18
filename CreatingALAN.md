@@ -82,7 +82,9 @@ Now I am following the manual for the router
 5. Changing the Settings
    a. Changed the password to access the router itself
    b. Changed the Wifi name and password, and changed the encryption to WPA2-PSK
-   c. Due to not having access to the router I have it set to DHCP
-   d. I changed bandwidth to 40MHZ from 20MHZ. Since my connections are wired and the living room connections are wireless, there won't be any interference or blockage
+   c. Due to not having access to the router, I have it set to DHCP
+   d. I changed the bandwidth to 40MHz from 20MHz. Since my connections are wired and the living room connections are wireless, there won't be any interference or blockage
+   e. I installed WifiInfoView to see the channel usage. My router was using channel 10, but knowing 1 6 and 11 are the best, I chose channel 6 because it had the loweest % (17%)
+   
    
 
