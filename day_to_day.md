@@ -79,6 +79,12 @@ I think it might be best to look into Virtual Box and even a ticketing service a
 Day 7 (1 week) 4.17.25
 Network equipment came in last night and now I am in the process of setting it up
 - Due to having two PC's and now 2 HDMI cables, 2 power cables, and 2 Ethernet cables. I had to use some tape to tie it together and cable manage. 
-- I will start configuring the equipment tomorrow. Please look at the "Creating a LAN" Project folder
+- I will start configuring the equipment tomorrow. Please look at the "Creating a LAN" Project folder.
+- I decided to turn from my Udemy course and follow professor messor when it comes to learning A+
  
 [Creating my LAN Project](/CreatingALAN.md)
+------------------------------------------------------------------------------------------------------------------------------------------------
+Day 8 4.18
+- Set up the swith and the Wifi Router (now a dumb AP).
+- Working on Defensive Security Intro from TryHackMe
+- 
