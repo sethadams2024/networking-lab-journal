@@ -77,6 +77,12 @@ Now I am following the manual for the router
    **Solution** I went to settings -> Network and Wifi -> and clicked on the router connection. I then looked at the Default Gateway, which was 192.168.10.1
 4. I am in the router now
    <br>
-   <br>
-   ![{EC62EB27-40AD-4D13-9873-EC933D5F60CF}](https://github.com/user-attachments/assets/4c8ba3a2-3d6d-4fb8-a6a7-8de35e76b61f)
+   ![{EC62EB27-40AD-4D13-9873-EC933D5F60CF}](https://github.com/user-attachments/assets/4c8ba3a2-3d6d-4fb8-a6a7-8de35e76b61f)\
+
+5. Changing the Settings
+   a. Changed the password to access the router itself
+   b. Changed the Wifi name and password, and changed the encryption to WPA2-PSK
+   c. Due to not having access to the router I have it set to DHCP
+   d. I changed bandwidth to 40MHZ from 20MHZ. Since my connections are wired and the living room connections are wireless, there won't be any interference or blockage
+   
 
