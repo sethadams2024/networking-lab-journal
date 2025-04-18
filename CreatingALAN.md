@@ -92,5 +92,9 @@ Now I am following the manual for the router
    <h2> Thinking about security</h2>
 
    as I plugged the router in, I came to realize why you do not purchase a $20 router, it isn't protected well. It has TKIP which stands for Temportal Key Integrity Protocol. 
-   
+
+
+   for the time being, I disconnected the router and went to switch only.
+   1. connected the switch to the ehternet wall port, the  connected it to the gaming pc
+   2. had trouble getting the right IP. So I downloaded ProSAFE Plus Utility and it helped discover the IP, and got to the config page.
 
