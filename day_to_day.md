@@ -80,7 +80,5 @@ Day 7 (1 week) 4.17.25
 Network equipment came in last night and now I am in the process of setting it up
 - Due to having two PC's and now 2 HDMI cables, 2 power cables, and 2 Ethernet cables. I had to use some tape to tie it together and cable manage. 
 - I will start configuring the equipment tomorrow. Please look at the "Creating a LAN" Project folder
-Before:
-
-After: 
-
+ 
+[Creating my LAN Project](/CreatingALAN.md)
