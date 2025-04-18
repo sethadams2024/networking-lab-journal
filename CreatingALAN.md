@@ -80,11 +80,17 @@ Now I am following the manual for the router
    ![{EC62EB27-40AD-4D13-9873-EC933D5F60CF}](https://github.com/user-attachments/assets/4c8ba3a2-3d6d-4fb8-a6a7-8de35e76b61f)\
 
 5. Changing the Settings
+
+
    a. Changed the password to access the router itself
    b. Changed the Wifi name and password, and changed the encryption to WPA2-PSK
    c. Due to not having access to the router, I have it set to DHCP
    d. I changed the bandwidth to 40MHz from 20MHz. Since my connections are wired and the living room connections are wireless, there won't be any interference or blockage
    e. I installed WifiInfoView to see the channel usage. My router was using channel 10, but knowing 1 6 and 11 are the best, I chose channel 6 because it had the loweest % (17%)
-   
+
+
+   <h2> Thinking about security</h2>
+
+   as I plugged the router in, I came to realize why you do not purchase a $20 router, it isn't protected well. It has TKIP which stands for Temportal Key Integrity Protocol. 
    
 
