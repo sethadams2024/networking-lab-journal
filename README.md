@@ -6,6 +6,10 @@ I recently delved full into networking as the future of my career path, and I am
 
 <h2> Here are my projects and items that I am doing</h2>
 
-[My day to day learning summaries](day_to_day)
+[My day-to-day learning summaries](day_to_day)
 
 I will clean this up over time.
+
+[Creating my own LAN](Creating A LAN.md)
+
+
