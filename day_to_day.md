@@ -87,4 +87,4 @@ Network equipment came in last night, and now I am in the process of setting it 
 Day 8 4.18
 - Set up the switch and the Wifi Router (now a dumb AP).
 - Working on Defensive Security Intro from TryHackMe (completed)
-- 
+- Build a home network module in the "Network Tech" cisco learning academy course
