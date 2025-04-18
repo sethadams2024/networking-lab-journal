@@ -59,3 +59,24 @@ I also added an HDMI Splitter to ease the process of not removing cables and hav
 ![image](https://github.com/user-attachments/assets/8e0eceaf-7717-48d5-9b7c-c8d67f5ff758)
 
 
+
+
+<h1> Setting up  the router</h1>
+
+Okay, first, I had to clean the area where the router would go. I have cats, and there were little pieces of litter in the area.
+
+I then had to cable manage the numerous devices present by the TV. I brought all the wires to an open shelf in the TV stand. Makes it easier to access them and not get eaten up by the cats
+
+Time to start configuring
+
+1. I connected the Cat 6 UDP Ethernet cable to the wall port and plugged it into the router. I then plugged the existing cable into LAN PORT 1 and connected the end to my gaming PC.
+
+Now I am following the manual for the router
+1. Connected to the wifi connection
+2. Went to 192.168.0.1 on my browser, but this did not work
+   **Solution** I went to settings -> Network and Wifi -> and clicked on the router connection. I then looked at the Default Gateway, which was 192.168.10.1
+4. I am in the router now
+   <br>
+   <br>
+   ![{EC62EB27-40AD-4D13-9873-EC933D5F60CF}](https://github.com/user-attachments/assets/4c8ba3a2-3d6d-4fb8-a6a7-8de35e76b61f)
+
