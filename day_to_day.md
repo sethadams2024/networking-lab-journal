@@ -73,18 +73,18 @@ Didn't get to do much, but I started chipping away at module 3 on my Master's!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 6 4.16.25
 Got the (new) PC from a family friend, now I will try to get into the OS and start learning. It is taking forever to reset.
-Finally Reset, now just organizing my desk for two PC's now. 
-I think it might be best to look into Virtual Box and even a ticketing service and make fake tickets and organize my thoughts as I learn
+Finally reset, now just organizing my desk for two PC's. 
+I think it might be best to look into VirtualBox and even a ticketing service,a nd make fake tickets and organize my thoughts as I learn
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Day 7 (1 week) 4.17.25
-Network equipment came in last night and now I am in the process of setting it up
+Network equipment came in last night, and now I am in the process of setting it up
 - Due to having two PC's and now 2 HDMI cables, 2 power cables, and 2 Ethernet cables. I had to use some tape to tie it together and cable manage. 
 - I will start configuring the equipment tomorrow. Please look at the "Creating a LAN" Project folder.
-- I decided to turn from my Udemy course and follow professor messor when it comes to learning A+
+- I decided to turn from my Udemy course and follow Professor Messor when it comes to learning A+
  
 [Creating my LAN Project](/CreatingALAN.md)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Day 8 4.18
-- Set up the swith and the Wifi Router (now a dumb AP).
-- Working on Defensive Security Intro from TryHackMe
+- Set up the switch and the Wifi Router (now a dumb AP).
+- Working on Defensive Security Intro from TryHackMe (completed)
 - 
