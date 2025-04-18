@@ -21,11 +21,41 @@ N300 Wifi Router 2.4G 300Mbps
 
 ![image](https://github.com/user-attachments/assets/df14cdc4-55c2-4f2a-8b0a-d750711f1e01)
 
+
+<br>
+<br>
+------------------------------------------------------------------------------------------
+<br>
+
 NETGEAR 5-Port Gigabit Ethernet Easy Smart Managed Essentials Switch (GS305E)
 
 
+<br>
+<br>
 
 
 <h3> Cable Management</h3>
 
-Before I can even start, I need to clean my "workstation", as It has double the amount of cables now.
+Before I can even start, I need to clean my "workstation," which has double the number of cables now.
+Because of the temporary environment, I decided to use masking tape, which is easy to use and take off when needed.
+I managed the 3 power cables (PC1, PC2, Monitor) together and had to first take it closer to PC2 since its a closed case and on the bottom of my desk. It was tricky getting it to be as tight as possible, as the other 2 cables came up and formed a Y shape when they connected to the monitor and PC1.
+
+Due to there only being a double outlet, I have a surge protector that has combined all 3 power cables. I cannot have both PC's running simultaneously due to the sheer demand of power. So now, there is also the switch power cable, and two USB ports in the other outlet (this outlet has two USB cables (3.0, I think). These are managed to follow the shape of the desk then route through the back of a small hole in the router and then go their persepctive ways.
+
+I also added an HDMI Splitter to ease the process of not removing cables and having the risk of damaging something.
+
+
+<h1>Here is what the System looks like before</h1>
+
+![image](https://github.com/user-attachments/assets/3faeb49d-306f-4158-9fb4-12c1c9460bb2)
+
+<br>
+<br>
+<br>
+<h1> now it looks like</h1>
+
+![image](https://github.com/user-attachments/assets/0d459703-4f6f-4a9e-8d70-0bb5bd24a3e3)
+
+![image](https://github.com/user-attachments/assets/8e0eceaf-7717-48d5-9b7c-c8d67f5ff758)
+
+
