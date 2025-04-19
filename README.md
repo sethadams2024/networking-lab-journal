@@ -13,5 +13,14 @@ I recently delved full into networking as the future of my career path, and I am
 <br>
 <br>
 [Lenovo PC Setup Project](/LenovoPCSetupProject.md)
+<br>
+<br>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4576476" style='border:none;'></iframe>
+<br>
+
+[TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sethadams2024.png)
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sethadams2024.png)](https://tryhackme.com/p/sethadams2024)
 
 
+https://tryhackme-badges.s3.amazonaws.com/sethadams2024.png
