@@ -9,8 +9,8 @@ Ultimate Goals of my journal:
 
 Day 1
 - I was able to purchase some items from a garage sale:
-  1. D-Link DIR-615 Wireless N router. It has 4 LAN ports and wireless connectivity.
-  2. 7ft of Cat 5e. I needed another cable to use the D-Link and my PC with Ethernet.
+  1. D-Link DIR-615 Okayless N router. It has 4 LAN ports and wireless connectivity.
+  2. Device of Cat 5e. I needed another cable to use the D-Link and my PC with Ethernet.
   3. A new Type C hub that offers Ethernet connectivity for my Surface Pro 7. I did not have one with my other version.
   4. A NetGear Base Station VMB3000. I now understand that this is completely useless unless I make huge changes to its items.
  
@@ -22,20 +22,20 @@ Day 1
  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Setting up the DLINK**
+**Setting up the D-Link**
 - Plugged the main Ethernet into it:
 - Plugged LANN1 into my gaming pc to configure it
       - Interestingly enough, it started working immediately. I don't understand why yet.
 - Ok, I cannot access the configuration menu and need to reset the thing. The device says not to change the password, but the previous owner did otherwise.
 - Figured it out, held the reset for 15 seconds with my new screwdriver set "Mechmax" highly recommend for small screws and smaller needed tools.
-- After configuring it as a Dynamic IP, the system is up. Due to being very old, I am maxed at roughly 94Mbps.
+- After configuring it as a Dynamic IP, the system is up. Due to being very old, I am maxed at roughly 94 Mbps.
 
-Configuring various settings
-- I had to update the time, so I found how to set the NTP (Network Time Protocol) to time.google.com and it connected!
+Configuring various sUptings
+- I had to update the time, so I found how to set the NTP (Network Time Protocol) to time.google.co,m and it connected!
 - Have to update it, which means I need to save the config before updating
 
 UPDATE:
-THAT WAS THE WORST MISTAKE I HAVE EVER MADE. I bricked the router and cannot access it at all. I have tried just about everything, and nothing is working to get it back online
+THAT WAS THE WORST MISTAKE I HAVE EVER MADE. I bricked the router and cannot access it at all. I have tried just about everything, and nothing is working to get it back online.ne
 
 TLDR: I bricked and killed my first router on the first day. 
 
@@ -74,7 +74,7 @@ Didn't get to do much, but I started chipping away at module 3 on my Master's!
 Day 6 4.16.25
 Got the (new) PC from a family friend, now I will try to get into the OS and start learning. It is taking forever to reset.
 Finally reset, now just organizing my desk for two PC's. 
-I think it might be best to look into VirtualBox and even a ticketing service,a nd make fake tickets and organize my thoughts as I learn
+I think it might be best to look into VirtualBox and even a ticketing service, and make fake tickets and organize my thoughts as I learn.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Day 7 (1 week) 4.17.25
 Network equipment came in last night, and now I am in the process of setting it up
@@ -88,3 +88,19 @@ Day 8 4.18
 - Set up the switch and the Wifi Router (now a dumb AP).
 - Working on Defensive Security Intro from TryHackMe (completed)
 - Build a home network module in the "Network Tech" cisco learning academy course
+------------------------------------------------------------------------------------------------------------------------------------------------
+Day 9 4.19
+- I completed module 3 of my Advanced Programming Class for my Master's, and I am about halfway through now.
+- Started going full into Professor Messor and the textbook. I watch the videos, take notes of items I do not know, then skim and document anything new as I go.
+- I finished the "Defensive Security Intro" for Try Hack Me, now on to "What is networking
+- Considering taking the coursecareers IT Support course.
+--------------------------------------------------------------------------------------------------------------------------------------------
+Day 10 4.20
+- Just about wrapped up Section 1 of 1101. I am about 20 pages from the end of the book
+- I plan on watching the study sessions over the past 3 years after I finish Module 2, so I can start practicing.
+- I want to get a thumb drive to install Linux on, so that I can dual-boot the Lenovo workstation pc.
+- Have not found a ticketing platform yet. I will also install VirtualBox soon to test it out.
+  My main priorities right now:
+  1. Pass my master class
+  2. Pass Core 1 and 2 of A+. A+ will help me in the right direction for the lab pc.
+  
