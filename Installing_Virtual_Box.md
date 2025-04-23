@@ -12,3 +12,21 @@ https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=ms
 4. Once I got into it, I had to choose an operating system to log into. I chose Ubuntu
 5. I went to the download page x64 for 24.04.2 https://ubuntu.com/download/desktop#newsletter-signup
 
+
+<h3>Installing Ubuntu onto VirtualBox</h3>
+- Create the OS, choosing the system and architecture
+- Click Settings and then choose how much CPU usage you want, etc. But specifically choose the storage space
+- Click the empty drive and then the disk icon on the right side, and select "Choose a Disk File", select the iso file.
+![image](https://github.com/user-attachments/assets/c8c4c136-a839-45ea-ac2e-ec7342ee5454)
+<br>
+<br>
+<br>
+<br>
+![image](https://github.com/user-attachments/assets/053a6b6e-df83-4873-8d43-a7a9ea88f918)
+<br>
+<br>
+<br>
+<h3> Notes to self</h3>
+1. Do not do this while tethering with a phone. Much slower speeds of downloading the OS (5GB took 30 minutes)
+2. Be prepared to shed through battery power as the power load increases.
+
