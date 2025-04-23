@@ -102,7 +102,15 @@ Day 10 4.20
 - Have not found a ticketing platform yet. I will also install VirtualBox soon to test it out.
   My main priorities right now:
   1. Pass my master class
-  2. Pass Core 1 and 2 of A+. A+ will help me in the right direction for the lab pc.
+  3. Pass Core 1 and 2 of A+. A+ will help me in the right direction for the lab pc.
 - Finished Section 1 of 1101, I got about 12.5% out of the possible 15% on the quizzes at the end of each chapter. On to networking, which is 20%. I think my biggest challenge is port #'s, but I need to study them on Anki
 - Completed "WHAT IS NETWORKING" by tryhackme
   
+---------------------------------------------------------------------------------------------------------------------------------------------
+Day 11 4.21
+- Passed Module 3 of my R class
+- Started the CourseCareers IT Support course. I am excited to learn the different parts that I would use in entry level IT.
+---------------------------------------------------------------------------------------------------------------------------------------------
+Day 12 4.22
+- Started my journey into hardware and the networking portions of the Course Careers (around 25% done)
+- Downloaded VirtualBox. 
