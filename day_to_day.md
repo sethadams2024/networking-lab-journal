@@ -122,3 +122,12 @@ Day 12 4.22
 Day 13 4.23
 
 ![image](https://github.com/user-attachments/assets/92dbce8f-597e-41b2-a5c3-5b7cc9690a47)
+
+![image](https://github.com/user-attachments/assets/627e1270-48a1-4e7e-b352-5cd88bcbe2f0)
+
+
+
+
+
+![{C5CE4058-17DF-4E8F-8D43-DFBAEB04361E}](https://github.com/user-attachments/assets/633621d2-cd36-4405-8088-094a6d4b0bd4)
+
