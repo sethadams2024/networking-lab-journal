@@ -114,4 +114,7 @@ Day 11 4.21
 Day 12 4.22
 - Started my journey into hardware and the networking portions of the Course Careers (around 25% done)
 - Downloaded VirtualBox. [Installing Virtual Box on Surface Pro](/Installing_Virtual_Box.md)
-  
+
+
+  ![image](https://github.com/user-attachments/assets/b11e0cc7-bbcf-4443-ab38-bb463ae5447c)
+
