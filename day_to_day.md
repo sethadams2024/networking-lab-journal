@@ -121,15 +121,26 @@ Day 12 4.22
 -----------------------------------------------------------------------------------------------------------------------------------------------
 Day 13 4.23
 
+I started the lab section of CourseCareers. I got to install and work on virtual machines (through remote desktop) inside of Azure!
+
+I also installed wireshare to see all the types of traffic involved.
 ![image](https://github.com/user-attachments/assets/92dbce8f-597e-41b2-a5c3-5b7cc9690a47)
 
 ![image](https://github.com/user-attachments/assets/627e1270-48a1-4e7e-b352-5cd88bcbe2f0)
 
 
-
-
-
 ![{C5CE4058-17DF-4E8F-8D43-DFBAEB04361E}](https://github.com/user-attachments/assets/633621d2-cd36-4405-8088-094a6d4b0bd4)
+<br>
+<br>
+<br>
+-------------------------------------------------------------------------------------------------------------------------------------------
+Day 14 4.24
+
+Started working on module 4 of my master's class
+
+Installed and created my own ticketing system with osTicket. I had to use the virtual machine's web server 172.0.0.1. It took going into multiple file systems, configuring access, and many items to get it up and working properly.
+
+I also continued the network tech course on cisco.
 
 
 ![{93766C3E-9DD6-425F-A07B-B7656D6E8866}](https://github.com/user-attachments/assets/a748e17d-2fe0-4723-a0f5-d26019182c95)
