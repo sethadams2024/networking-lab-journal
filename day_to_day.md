@@ -140,7 +140,7 @@ Started working on module 4 of my master's class
 
 Installed and created my own ticketing system with osTicket. I had to use the virtual machine's web server 172.0.0.1. It took going into multiple file systems, configuring access, and many items to get it up and working properly.
 
-I also continued the network tech course on cisco.
+I also finished Module 5: Communication Principles of the Networking basics in the Network Technician course from Cisco.
 
 
 ![{93766C3E-9DD6-425F-A07B-B7656D6E8866}](https://github.com/user-attachments/assets/a748e17d-2fe0-4723-a0f5-d26019182c95)
