@@ -121,9 +121,9 @@ Day 12 4.22
 -----------------------------------------------------------------------------------------------------------------------------------------------
 Day 13 4.23
 
-I started the lab section of CourseCareers. I got to install and work on virtual machines (through remote desktop) inside of Azure!
+I started the lab section of CourseCareers. I installed and worked on virtual machines (through remote desktop) inside Azure!
 
-I also installed wireshare to see all the types of traffic involved.
+I also installed Wireshark to see all the types of traffic involved.
 ![image](https://github.com/user-attachments/assets/92dbce8f-597e-41b2-a5c3-5b7cc9690a47)
 
 ![image](https://github.com/user-attachments/assets/627e1270-48a1-4e7e-b352-5cd88bcbe2f0)
@@ -147,3 +147,10 @@ I also finished Module 5: Communication Principles of the Networking basics in t
 
 
 ![{2CBC338F-2122-43DA-B17B-C4122B65307D}](https://github.com/user-attachments/assets/98a95fa4-abd0-474b-9890-dd550a5808d1)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+Day 15 4.25
+
+Finished the VPN lab with Proton VPN. I created a virtual machine and tested the IP differnece once the vpn was activated, etc.
+Completed the CIA Triad section of the security principles free module on TryHackMe.
+-------------------------------------------------------------------------------------------------------------------------
