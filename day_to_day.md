@@ -138,7 +138,7 @@ Day 14 4.24
 
 Started working on module 4 of my master's class
 
-Installed and created my own ticketing system with osTicket. I had to use the virtual machine's web server 172.0.0.1. It took going into multiple file systems, configuring access, and many items to get it up and working properly.
+Installed and created my ticketing system with osTicket. I had to use the virtual machine's web server 172.0.0.1. It took going into multiple file systems, configuring access, and many items to get it up and working properly.
 
 I also finished Module 5: Communication Principles of the Networking basics in the Network Technician course from Cisco.
 
@@ -151,6 +151,16 @@ I also finished Module 5: Communication Principles of the Networking basics in t
 -----------------------------------------------------------------------------------------------------------------------------------------
 Day 15 4.25
 
-Finished the VPN lab with Proton VPN. I created a virtual machine and tested the IP differnece once the vpn was activated, etc.
+Finished the VPN lab with Proton VPN. I created a virtual machine and tested the IP difference once the vpn was activated, etc.
 Completed the CIA Triad section of the security principles free module on TryHackMe.
 -------------------------------------------------------------------------------------------------------------------------
+Day 16 4.26
+
+Worked on A+ certification and completed module 4 of my master's class.
+--------------------------------------------------------------------------------------------------------------------
+Day 17 4.27
+Finished and started module 3 (hardware) of A+. I have started taking practice exams as I go deeper into the course.
+----------------------------------------------------------------------------------------------------------------------
+Day 18 4.28
+
+Continued 3.0 hardware section. I am wondering if  I should go for N+ then CCNA, as many locations around me want N+. Getting the triad is crucial.
