@@ -30,12 +30,12 @@ Day 1
 - Figured it out, held the reset for 15 seconds with my new screwdriver set "Mechmax" highly recommend for small screws and smaller needed tools.
 - After configuring it as a Dynamic IP, the system is up. Due to being very old, I am maxed at roughly 94 Mbps.
 
-Configuring various sUptings
+Configuring various settings
 - I had to update the time, so I found how to set the NTP (Network Time Protocol) to time.google.co,m and it connected!
 - Have to update it, which means I need to save the config before updating
 
 UPDATE:
-THAT WAS THE WORST MISTAKE I HAVE EVER MADE. I bricked the router and cannot access it at all. I have tried just about everything, and nothing is working to get it back online.ne
+THAT WAS THE WORST MISTAKE I HAVE EVER MADE. I bricked the router and cannot access it at all. I have tried just about everything, and nothing is working to get it back online
 
 TLDR: I bricked and killed my first router on the first day. 
 
@@ -48,7 +48,7 @@ Day 2
 - Today, I was very busy with other priorities. But I made progress nonetheless.
 - I finished the RAM chapter of A+, now onto BIOS tomorrow. I need to read around 20 pages a day if I want to be ready by June 17.  Actually, with my honeymoon, I need to push it to July
 - I also bought new network equipment. I bought a NETGEAR 5-Port Gigabit Ethernet Easy Smart Managed Essentials Switch (GS305E). This time I will not brick it!
-- I got a N300 Wifi Router 2.4 GHz Easy Setup. up to 300Mbps. It's not great, but I still want to try setting it up in my bedroom.
+- I got a N300 Wifi Router 2.4 GHz Easy Setup. Up to 300Mbps. It's not great, but I still want to try setting it up in my bedroom.
 - Side note: Want to slowly upgrade my old gaming PC with parts during this journey. Stay Tuned. On to day 3!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -77,7 +77,7 @@ Finally reset, now just organizing my desk for two PC's.
 I think it might be best to look into VirtualBox and even a ticketing service, and make fake tickets and organize my thoughts as I learn.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Day 7 (1 week) 4.17.25
-Network equipment came in last night, and now I am in the process of setting it up
+Network equipment came in last night, and now I am in the process of setting it up.
 - Due to having two PC's and now 2 HDMI cables, 2 power cables, and 2 Ethernet cables. I had to use some tape to tie it together and cable manage. 
 - I will start configuring the equipment tomorrow. Please look at the "Creating a LAN" Project folder.
 - I decided to turn from my Udemy course and follow Professor Messor when it comes to learning A+
@@ -90,7 +90,7 @@ Day 8 4.18
 - Build a home network module in the "Network Tech" cisco learning academy course
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Day 9 4.19
-- I completed module 3 of my Advanced Programming Class for my Master's, and I am about halfway through now.
+- I completed module 3 of my Advanced Programming Class for my Master's and am about halfway through.
 - Started going full into Professor Messor and the textbook. I watch the videos, take notes of items I do not know, then skim and document anything new as I go.
 - I finished the "Defensive Security Intro" for Try Hack Me, now on to "What is networking
 - Considering taking the coursecareers IT Support course.
@@ -109,7 +109,7 @@ Day 10 4.20
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Day 11 4.21
 - Passed Module 3 of my R class
-- Started the CourseCareers IT Support course. I am excited to learn the different parts that I would use in entry level IT.
+- Started the CourseCareers IT Support course. I am excited to learn the different parts that I would use in entry-level IT.
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Day 12 4.22
 - Started my journey into hardware and the networking portions of the Course Careers (around 25% done)
@@ -163,4 +163,15 @@ Finished and started module 3 (hardware) of A+. I have started taking practice e
 ----------------------------------------------------------------------------------------------------------------------
 Day 18 4.28
 
-Continued 3.0 hardware section. I am wondering if  I should go for N+ then CCNA, as many locations around me want N+. Getting the triad is crucial.
+I continued the 3.0 hardware section. I am wondering if I should go for N+ instead of CCNA, as many locations around me want N+. Getting the triad is crucial.
+--------------------------------------------------------------------------------------------------------------------
+Day 19 4.29
+Now, I wonder if I should go from A+ to Sec+. Sec+ opens more doors, and I am learning networking from the Cisco Networking Academy. I can then go back to N+ later.
+I am almost done with module 3 of A+.
+-------------------------------------------------------------------------------------------------------------------
+Day 20 4.30
+Finished Module 3 and Module 4 of 1101. Now on to troubleshooting. I think I will take Core One mid-June, as I need to complete it as soon as possible.
+
+I also redid my resume to include some projects. 
+-----------------------------------------------------------------------------------------------------------------
+Day 21 5.1
