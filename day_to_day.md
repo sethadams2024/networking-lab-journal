@@ -148,7 +148,8 @@ I also finished Module 5: Communication Principles of the Networking basics in t
 
 ![{2CBC338F-2122-43DA-B17B-C4122B65307D}](https://github.com/user-attachments/assets/98a95fa4-abd0-474b-9890-dd550a5808d1)
 
------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------\
+
 Day 15 4.25
 
 Finished the VPN lab with Proton VPN. I created a virtual machine and tested the IP difference once the vpn was activated, etc.
