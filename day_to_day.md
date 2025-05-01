@@ -152,27 +152,27 @@ I also finished Module 5: Communication Principles of the Networking basics in t
 
 Day 15 4.25
 
-Finished the VPN lab with Proton VPN. I created a virtual machine and tested the IP difference once the vpn was activated, etc.
-Completed the CIA Triad section of the security principles free module on TryHackMe.
+- Finished the VPN lab with Proton VPN. I created a virtual machine and tested the IP difference once the vpn was activated, etc.
+- Completed the CIA Triad section of the security principles free module on TryHackMe.
 -------------------------------------------------------------------------------------------------------------------------
 Day 16 4.26
 
-Worked on A+ certification and completed module 4 of my master's class.
+- Worked on A+ certification and completed module 4 of my master's class.
 --------------------------------------------------------------------------------------------------------------------
 Day 17 4.27
-Finished and started module 3 (hardware) of A+. I have started taking practice exams as I go deeper into the course.
+- Finished and started module 3 (hardware) of A+. I have started taking practice exams as I go deeper into the course.
 ----------------------------------------------------------------------------------------------------------------------
 Day 18 4.28
 
-I continued the 3.0 hardware section. I am wondering if I should go for N+ instead of CCNA, as many locations around me want N+. Getting the triad is crucial.
+- I continued the 3.0 hardware section. I am wondering if I should go for N+ instead of CCNA, as many locations around me want N+. Getting the triad is crucial.
 --------------------------------------------------------------------------------------------------------------------
 Day 19 4.29
-Now, I wonder if I should go from A+ to Sec+. Sec+ opens more doors, and I am learning networking from the Cisco Networking Academy. I can then go back to N+ later.
+
+- Now, I wonder if I should go from A+ to Sec+. Sec+ opens more doors, and I am learning networking from the Cisco Networking Academy. I can then go back to N+ later.
 I am almost done with module 3 of A+.
 -------------------------------------------------------------------------------------------------------------------
 Day 20 4.30
-Finished Module 3 and Module 4 of 1101. Now on to troubleshooting. I think I will take Core One mid-June, as I need to complete it as soon as possible.
-
-I also redid my resume to include some projects. 
+- Finished Module 3 and Module 4 of 1101. Now on to troubleshooting. I think I will take Core One mid-June, as I need to complete it as soon as possible.
+- I also redid my resume to include some projects. 
 -----------------------------------------------------------------------------------------------------------------
 Day 21 5.1
