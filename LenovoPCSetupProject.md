@@ -40,3 +40,23 @@ Installing Users
 2. I skipped adding emails and what not and added 2 users (User1111) and (User2222) and my own account. The other two are standard accounts and 
 cannot have admin permissions.
 ----------------------------------------------------------------------------------------------------------------------------------------
+<h2> Setting up remote IT access </h2>
+
+Here, I plan to use my gaming pc as "IT Support" and the Lenovo as the "corporate" users.
+
+1. Installed Anydesk to allow remote access due to not having windows pro
+2. went into the command prompt as admin and created s user "ITadmin" with password
+3. Then created a local group named "Administrators and added the ITadmin to it.
+4. created 3 seperate corporte accounts (
+   - corp_user1 corp123! /add
+   - corp_user2 corp123! /add
+   - corp_user3 corp123! /add
+5. I then created a folder and two folders in it C:\CorpShared\DepA
+   - Gave corp_user1 and corp_user2 all access
+   - Gave corp_user 3 omly read access through the properites tab
+   - ITadmin has full access
+6. Created another folder called ITadmin, and restricted all desktop-lab\users from being able to access it.
+7. I was having trouble putting permissions as an administrator and then not having the access I gave myself
+   - Went back and changed owner and selected "replace ownership with all subfolders" and etc. This allowed me to get into my "IT Only" folder and restrict all other users from accessing it.
+8. I went on to make 3 seperate folders in DepA. a corp1 corp2 and corp3 folders. I then restricted the access so that only ITadmin and the right user can read and write their needed folder.
+   - 
