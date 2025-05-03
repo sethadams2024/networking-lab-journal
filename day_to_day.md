@@ -5,14 +5,14 @@ This is a journal to log the various networking projects, labs, and certificatio
 Ultimate Goals of my journal:
 - Get into networking
 - Break into the IT field.
-- Show the knowledge I have gained, the mistakes I have made, and much more.
+- Show the knowledge I have gained, my mistakes, and much more.
 
 Day 1
 - I was able to purchase some items from a garage sale:
   1. D-Link DIR-615 Okayless N router. It has 4 LAN ports and wireless connectivity.
   2. Device of Cat 5e. I needed another cable to use the D-Link and my PC with Ethernet.
   3. A new Type C hub that offers Ethernet connectivity for my Surface Pro 7. I did not have one with my other version.
-  4. A NetGear Base Station VMB3000. I now understand that this is completely useless unless I make huge changes to its items.
+  4. A NetGear Base Station VMB3000. I now understand that this is useless unless I make huge changes to its items.
  
   Here are my Plans for the upcoming weeks
   - Take out the insides of the NetGear and put a Raspberry Pi in it to detect my internet traffic by hiding it as another device.
@@ -176,3 +176,11 @@ Day 20 4.30
 - I also redid my resume to include some projects. 
 -----------------------------------------------------------------------------------------------------------------
 Day 21 5.1
+
+- Did not accomplish much except complete week 5 of my class and did a+
+--------------------------------------------------------------------------------------------------------------
+Day 22 5.2
+- Decided to start doing labs on my lab computer. I went on to create some [roll access](/roleaccess.md)
+- Worked on Coursecareers acitve directory.
+
+  ## Day 24 will not exist, getting married.
