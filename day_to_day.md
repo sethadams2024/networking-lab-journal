@@ -43,6 +43,7 @@ Day 6: Set up a second PC; explored VirtualBox and ticketing systems.
 Day 14: Installed osTicket on a local web server — my first working ticketing platform!
 
 Day 23–28: Deep focus on CompTIA A+ prep — practice tests, modules, and high scores.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧪 Featured Projects
 
