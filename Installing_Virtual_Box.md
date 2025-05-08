@@ -1,36 +1,56 @@
-<h1> Hello! This document is about the process of installing VirtualBox on my Microsoft Surface Pro and getting Ubuntu installed on it.</h1>
+# 💻 Installing VirtualBox & Ubuntu on Microsoft Surface Pro
 
+This document outlines the steps I followed to install VirtualBox on my Microsoft Surface Pro and set up Ubuntu 24.04.2 in a virtual machine.
 
-<H3> Proess</H3>
-1. I initially went to the website for Virtual Box
-(https://www.bing.com/search?pglt=2337&q=virtualbox&cvid=c26ea576708f4a78ab82d9f8844bb551&gs_lcrp=EgRlZGdlKgkIABBFGDsY-QcyCQgAEEUYOxj5BzIGCAEQRRg5MgYIAhBFGDwyBggDEEUYPDIGCAQQRRg9MgYIBRBFGDwyBggGEEUYPNIBCDEwNTBqMGoxqAIAsAIA&FORM=ANNTA1&PC=U531)
+---
 
-2. I ran into the error that I did not have C++ 2019 installed on my computer to install the program file. Here is where I found the files to install the needed firmware:
-https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+## 🧭 Process Overview
 
-3. I installed it and then successfully installed VirtualBox.
-4. Once I got into it, I had to choose an operating system to log into. I chose Ubuntu
-5. I went to the download page x64 for 24.04.2 https://ubuntu.com/download/desktop#newsletter-signup
+1. **Downloaded VirtualBox**  
+   - Searched using [Bing for VirtualBox](https://www.bing.com/search?pglt=2337&q=virtualbox&cvid=c26ea576708f4a78ab82d9f8844bb551&gs_lcrp=EgRlZGdlKgkIABBFGDsY-QcyCQgAEEUYOxj5BzIGCAEQRRg5MgYIAhBFGDwyBggDEEUYPDIGCAQQRRg9MgYIBRBFGDwyBggGEEUYPNIBCDEwNTBqMGoxqAIAsAIA&FORM=ANNTA1&PC=U531)
 
+2. **C++ Redistributable Missing Error**  
+   - Encountered an error due to missing C++ 2019 runtime.
+   - Downloaded it from the official Microsoft page:  
+     [Visual C++ Redistributables – Microsoft Docs](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
-<h3>Installing Ubuntu onto VirtualBox</h3>
-- Create the OS, choosing the system and architecture
-- Click Settings and then choose how much CPU usage you want, etc. But specifically choose the storage space
-- Click the empty drive and then the disk icon on the right side, and select "Choose a Disk File", select the iso file.
+3. **Successfully Installed VirtualBox**
 
-![image](https://github.com/user-attachments/assets/c8c4c136-a839-45ea-ac2e-ec7342ee5454)
-<br>
-<br>
-<br>
-<br>
-![image](https://github.com/user-attachments/assets/053a6b6e-df83-4873-8d43-a7a9ea88f918)
-<br>
-<br>
-<br>
+4. **Chose Ubuntu as the OS**  
+   - Downloaded Ubuntu 24.04.2 (x64) from:  
+     [Ubuntu Desktop Download](https://ubuntu.com/download/desktop#newsletter-signup)
 
-<h3> Notes to self</h3>
+---
 
+## 🧰 Installing Ubuntu in VirtualBox
 
-1. Do not do this while tethering with a phone. Much slower speeds of downloading the OS (5GB took 30 minutes)
-2. Be prepared to shed through battery power as the power load increases.
+1. **Create New Virtual Machine**
+   - Name: Ubuntu
+   - Type: Linux
+   - Version: Ubuntu (64-bit)
 
+2. **Configure VM Settings**
+   - Set CPU and memory allocation
+   - Set storage size
+
+3. **Attach ISO File**
+   - Go to `Settings → Storage`
+   - Select the empty optical drive
+   - Click the disk icon and choose the Ubuntu `.iso` file
+
+---
+
+## 🖼️ Screenshots
+
+![VirtualBox Setup Screenshot 1](https://github.com/user-attachments/assets/c8c4c136-a839-45ea-ac2e-ec7342ee5454)
+
+![VirtualBox Setup Screenshot 2](https://github.com/user-attachments/assets/053a6b6e-df83-4873-8d43-a7a9ea88f918)
+
+---
+
+## 📝 Notes to Self
+
+- Always install Visual C++ dependencies if VirtualBox fails during install
+- Allocate at least 2 CPUs and 4GB RAM for smoother Ubuntu performance
+- Consider enabling 3D acceleration under `Display` settings
+- Snapshot the VM once Ubuntu is installed and configured
