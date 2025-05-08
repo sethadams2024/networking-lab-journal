@@ -2,7 +2,7 @@
 <h1>🧠 Networking Lab Journal</h1>
 
 Welcome to my Networking Lab Journal — a place where I document my hands-on projects, labs, and daily learning as I explore the world of networking and IT.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎯 Purpose
 This journal serves to:
 
@@ -11,7 +11,7 @@ This journal serves to:
  - <b>Showcase the knowledge I’ve gained through labs, certifications, and real-world scenarios.</b>
 
  - <b>Reflect on mistakes, challenges, and lessons learned.</b>
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📚 Topics Covered
 
 Networking fundamentals
@@ -23,10 +23,12 @@ Certification prep (e.g., Network+, CCNA)
 Troubleshooting exercises
 
 Tools, commands, and configs I’ve worked with
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 1
 - I was able to purchase some items from a garage sale:
-  1. D-Link DIR-615 Okayless N router. It has 4 LAN ports and wireless connectivity.
-  2. Device of Cat 5e. I needed another cable to use the D-Link and my PC with Ethernet.
+  1. D-Link DIR-615 N router. It has 4 LAN ports and wireless connectivity.
+  2. Cat 5e. I needed another cable to use the D-Link and my PC with Ethernet.
   3. A new Type C hub that offers Ethernet connectivity for my Surface Pro 7. I did not have one with my other version.
   4. A NetGear Base Station VMB3000. I now understand that this is useless unless I make huge changes to its items.
  
@@ -39,25 +41,21 @@ Day 1
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Setting up the D-Link**
-- Plugged the main Ethernet into it:
-- Plugged LANN1 into my gaming pc to configure it
-      - Interestingly enough, it started working immediately. I don't understand why yet.
-- Ok, I cannot access the configuration menu and need to reset the thing. The device says not to change the password, but the previous owner did otherwise.
-- Figured it out, held the reset for 15 seconds with my new screwdriver set "Mechmax" highly recommend for small screws and smaller needed tools.
-- After configuring it as a Dynamic IP, the system is up. Due to being very old, I am maxed at roughly 94 Mbps.
+- Connected the main Ethernet cable to the device.
+ LAN1 to my gaming PC for configuration. Interestingly, it started working, though the reason remains unclear.
+- Unable to access the configuration menu due to the previous owner changing the password, despite instructions not to do so.
+- Resolved by holding the reset button for 15 using my new "Mechmax" screwdriver set, which highly recommend for small screws and tools- Configured the device as Dynamic IP, and the system is operational., due to its age, the speed is capped at approximately 94 Mbps.
 
 Configuring various settings
-- I had to update the time, so I found how to set the NTP (Network Time Protocol) to time.google.co,m and it connected!
-- Have to update it, which means I need to save the config before updating
+- Updated the time by the NTP (Network Time Protocol) to time.google.com, which successfully connected.
+- Saved the configuration to prepare for an update.
 
 UPDATE:
-THAT WAS THE WORST MISTAKE I HAVE EVER MADE. I bricked the router and cannot access it at all. I have tried just about everything, and nothing is working to get it back online
+The update made a critical mistake, resulting in the router being bricked and rendered completely inaccessible. Despite numerous recovery attempts, it remains offline.
 
-TLDR: I bricked and killed my first router on the first day. 
+TL: The first day of using the router failed, as it was bricked beyond repair.
 
-
-Now that it's dead, basically, I am going to open it and see the parts of it. I will put screenshots in the wiki!
-Update: It has been taken apart. That is it for Day 1!
+Now that it is nonfunctional, I have decided toassemble it to examine its components. Screenshots will be added to the wikiUpdate: The router has fully dis. This concludes Day 1.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 2
@@ -69,28 +67,28 @@ Day 2
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 3 04.13.25
-I redid my RAM quiz and got 10/10. I wonder why I answered these questions a different way. 
+- I redid my RAM quiz and got 10/10. I wonder why I answered these questions a different way. 
 
-I completed the Udemy Firmware section. On to the book now. I never realized that the UEFI was an updated BIOS; I thought it was just a BIOS. I also didn't know about POST, Boot passwords, and how the power good wire for the CPU to start BIOS (UEFI)
+- I completed the Udemy Firmware section. On to the book now. I never realized that the UEFI was an updated BIOS; I thought it was just a BIOS. I also didn't know about POST, Boot passwords, and how the power good wire for the CPU to start BIOS (UEFI)
 
-I have other items to do, I shall return.
+- I have other items to do, I shall return.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 4 4.14.25
 
-Mark this day as the day I change and become full-on into this networking thing
+- Mark this day as the day I change and become full-on into this networking thing
 
-A+: Finished Firmware Section and now learning Motherboards
-Cisco Network Technician Course: Learning about setting up home networks
-Master's Class: I am starting tomorrow for Module 3
+- A+: Finished Firmware Section and now learning Motherboards
+- Cisco Network Technician Course: Learning about setting up home networks
+- Master's Class: I am starting tomorrow for Module 3
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 5 4.15.25
 
-Didn't get to do much, but I started chipping away at module 3 on my Master's!
+- Didn't get to do much, but I started chipping away at module 3 on my Master's!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 6 4.16.25
-Got the (new) PC from a family friend, now I will try to get into the OS and start learning. It is taking forever to reset.
-Finally reset, now just organizing my desk for two PC's. 
-I think it might be best to look into VirtualBox and even a ticketing service, and make fake tickets and organize my thoughts as I learn.
+- Got the (new) PC from a family friend, now I will try to get into the OS and start learning. It is taking forever to reset.
+- Finally reset, now just organizing my desk for two PC's. 
+- I think it might be best to look into VirtualBox and even a ticketing service, and make fake tickets and organize my thoughts as I learn.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Day 7 (1 week) 4.17.25
 Network equipment came in last night, and now I am in the process of setting it up.
@@ -152,11 +150,11 @@ I also installed Wireshark to see all the types of traffic involved.
 -------------------------------------------------------------------------------------------------------------------------------------------
 Day 14 4.24
 
-Started working on module 4 of my master's class
+- Started working on module 4 of my master's class
 
-Installed and created my ticketing system with osTicket. I had to use the virtual machine's web server 172.0.0.1. It took going into multiple file systems, configuring access, and many items to get it up and working properly.
+- Installed and created my ticketing system with osTicket. I had to use the virtual machine's web server 172.0.0.1. It took going into multiple file systems, configuring access, and many items to get it up and working properly.
 
-I also finished Module 5: Communication Principles of the Networking basics in the Network Technician course from Cisco.
+- I also finished Module 5: Communication Principles of the Networking basics in the Network Technician course from Cisco.
 
 
 ![{93766C3E-9DD6-425F-A07B-B7656D6E8866}](https://github.com/user-attachments/assets/a748e17d-2fe0-4723-a0f5-d26019182c95)
@@ -185,10 +183,10 @@ Day 18 4.28
 Day 19 4.29
 
 - Now, should I go from A+ to Sec+? Sec+ opens more doors, and I am learning networking from the Cisco Networking Academy. I can then go back to N+ later.
-I am almost done with module 3 of A+.
+- I am almost done with module 3 of A+.
 -------------------------------------------------------------------------------------------------------------------
 Day 20 4.30
-I have finished Module 3 and Module 4 of 1101 and am now on to troubleshooting. I think I will take Core One in mid-June, as I need to complete it as soon as possible.
+- I have finished Module 3 and Module 4 of 1101 and am now on to troubleshooting. I think I will take Core One in mid-June, as I need to complete it as soon as possible.
 - I also redid my resume to include some projects. 
 -----------------------------------------------------------------------------------------------------------------
 Day 21 5.1
@@ -196,13 +194,13 @@ Day 21 5.1
 - Did not accomplish much except complete week 5 of my class and did a+
 --------------------------------------------------------------------------------------------------------------
 Day 22 5.2
-- Decided to start doing labs on my lab computer. I went on to create some [roll access](/roleaccess.md)
-- Worked on CourseCareers active directory.
+- Decided to start doing labs on my lab computer. I went on to create some [role access](/roleaccess.md)
+- Worked on CourseCareers' active directory.
 
   ## Day 24 will not exist, getting married.
 ------------------------------------------------------------------------------------------------------------
 Day 23 5.3
-- Continued into module 5 of CompTIA Messer videos
+- Continued into module 5 of the CompTIA Messer videos
 ----------------------------------------------------------------------------------------------------------
 Day 26 5.6 
 - Finished the Messer videos!
