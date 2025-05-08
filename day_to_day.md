@@ -168,11 +168,11 @@ Day 18 4.28
 --------------------------------------------------------------------------------------------------------------------
 Day 19 4.29
 
-- Now, I wonder if I should go from A+ to Sec+. Sec+ opens more doors, and I am learning networking from the Cisco Networking Academy. I can then go back to N+ later.
+- Now, should I go from A+ to Sec+? Sec+ opens more doors, and I am learning networking from the Cisco Networking Academy. I can then go back to N+ later.
 I am almost done with module 3 of A+.
 -------------------------------------------------------------------------------------------------------------------
 Day 20 4.30
-- Finished Module 3 and Module 4 of 1101. Now on to troubleshooting. I think I will take Core One mid-June, as I need to complete it as soon as possible.
+I have finished Module 3 and Module 4 of 1101 and am now on to troubleshooting. I think I will take Core One in mid-June, as I need to complete it as soon as possible.
 - I also redid my resume to include some projects. 
 -----------------------------------------------------------------------------------------------------------------
 Day 21 5.1
@@ -181,6 +181,18 @@ Day 21 5.1
 --------------------------------------------------------------------------------------------------------------
 Day 22 5.2
 - Decided to start doing labs on my lab computer. I went on to create some [roll access](/roleaccess.md)
-- Worked on Coursecareers acitve directory.
+- Worked on CourseCareers active directory.
 
   ## Day 24 will not exist, getting married.
+------------------------------------------------------------------------------------------------------------
+Day 23 5.3
+- Continued into module 5 of CompTIA Messer videos
+----------------------------------------------------------------------------------------------------------
+Day 26 5.6 
+- Finished the Messer videos!
+- On to practice tests for the next month
+--------------------------------------------------------------------------------------------------------------
+Day 27 5.7
+- Going to do practice test 1 today and cover what went wrong
+- will be doing the AD lab from the course careers.
+- 
