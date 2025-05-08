@@ -11,10 +11,10 @@
   - [Creating my own LAN](/CreatingALAN.md)
 - <b>Lenovo PC tower lab</b>
   - [Lenovo PC Setup Project](/LenovoPCSetupProject.md)
+  - [Role Access on leovo lab](/roleaccess.md)
+- <b>Lenovo latptop upgrading</b>
 - <b>Intalling VirtualBox on Microsoft Surface Pro</b>
   - [Installing Virtual Box on Surface Pro](/Installing_Virtual_Box.md)
-- <b>Role Access on Lenovo tower Lab</b>
-  - [Role Access on leovo lab](/roleaccess.md)
     
 
 ## 🤳 Connect with Me:
