@@ -193,6 +193,6 @@ Day 26 5.6
 - On to practice tests for the next month
 --------------------------------------------------------------------------------------------------------------
 Day 27 5.7
-- Going to do practice test 1 today and cover what went wrong
-- will be doing the AD lab from the course careers.
-- 
+- Going to do practice test 1 today and cover what went wrong. ONLY GOT 5 WRONG! 3rd time is the charm
+- Completed the course careers course, now just going to run through it again, and prepare for the final exam.
+-----------------------------------------------------------------------------------------------------------
