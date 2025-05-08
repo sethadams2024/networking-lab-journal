@@ -43,7 +43,7 @@ Day 6: Set up a second PC; explored VirtualBox and ticketing systems.
 Day 14: Installed osTicket on a local web server — my first working ticketing platform!
 
 Day 23–28: Deep focus on CompTIA A+ prep — practice tests, modules, and high scores.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧪 Featured Projects
 
 Creating a LAN Project: Configuring a LAN with multiple devices, a switch, and a router.
@@ -51,6 +51,15 @@ Creating a LAN Project: Configuring a LAN with multiple devices, a switch, and a
 Installing VirtualBox on Surface Pro
 
 Role-Based Access Lab
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📅 Next Steps
+Continue A+ practice tests and schedule Core 1 exam by mid-June.
+
+Launch a dual-boot Linux setup on my lab PC.
+
+Begin deeper TryHackMe and Network+ training.
 
 
 
