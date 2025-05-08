@@ -1,30 +1,38 @@
-<H1> Hello, my name is Seth Adams!</H1>
+
+<h1>Hi, I'm Seth!</h1>
+
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+- <b>Day to Day Documentaries (Studying every day)</b>
+  - [My day-to-day learning summaries](/day_to_day.md)
+- <b>Creating my own LAN</b>
+  - [Creating my own LAN](/CreatingALAN.md)
+- <b>Lenovo PC tower lab</b>
+  - [Lenovo PC Setup Project](/LenovoPCSetupProject.md)
+- <b>Intalling VirtualBox on Microsoft Surface Pro</b>
+  - [Installing Virtual Box on Surface Pro](/Installing_Virtual_Box.md)
+- <b>Role Access on Lenovo tower Lab</b>
+  - [Role Access on leovo lab](/roleaccess.md)
+    
+
+## 🤳 Connect with Me:
+- **[LinkedIn](https://www.linkedin.com/in/seth-adams-sa2025/)**  
+- **[Cisco Networking Academy](https://www.netacad.com/dashboard)**  
+- **Current TryHackMe:**  
+  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sethadams2024.png)  
+- **Current Cisco Network Academy Badges:**  
+  ![GitHub Profile Image](https://github.com/user-attachments/assets/f705520d-6637-4c12-a78d-9e9e858ec308)  
+
 
 <h2> About me:</h2>
-<p> I am a recent B.S. Grad from Texas A&M University. For the past 6 months, I have been a data systems coordinator for a Clinical Education Company.
+<p> I am a recent B.S. Grad from Texas A&M University. For the past 7 months, I have been a data systems coordinator for a Clinical Education Company.
 I recently delved full into networking as the future of my career path, and I am using <b>THIS GITHUB</b>  to show the progress, the learning, the failures, and successes of my journey</p>
 
-<h2> My learning areas/ socials</h2>
 
-[Cisco Learning Academy](https://www.netacad.com/profile?&tab=profile)
-<br>
-<br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/sethadams2024.png" alt="Your Image Badge" />
-
-
-
-<h2> Here are my projects and items that I am doing</h2>
-
-[My day-to-day learning summaries](/day_to_day.md)
-<br>
-<br>
-[Creating my own LAN](/CreatingALAN.md)
-<br>
-<br>
-[Lenovo PC Setup Project](/LenovoPCSetupProject.md)
-<br>
-<br>
-[Installing Virtual Box on Surface Pro](/Installing_Virtual_Box.md)
-<br>
-<br>
-[Role Access on leovo lab](/roleaccess.md)
