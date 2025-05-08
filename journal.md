@@ -68,8 +68,7 @@ Network equipment came in last night, and now I am in the process of setting it 
 - Due to having two PC's and now 2 HDMI cables, 2 power cables, and 2 Ethernet cables. I had to use some tape to tie it together and cable manage. 
 - I will start configuring the equipment tomorrow. Please look at the "Creating a LAN" Project folder.
 - I decided to turn from my Udemy course and follow Professor Messor when it comes to learning A+
- 
-[Creating my LAN Project](/CreatingALAN.md)
+- [Creating my LAN Project](/CreatingALAN.md)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Day 8 4.18
 - Set up the switch and the Wifi Router (now a dumb AP).
