@@ -185,4 +185,5 @@ Day 27 5.7
 -----------------------------------------------------------------------------------------------------------
 Day 28 5.8
 - Took test #2 (attempt 2) and got a 95! But it included parts that are not on the exam (TFTP) is port 69.
-- 
+- Created a special repository for GitHub profile.
+- Submitted Assignment 6 for Master's class (final assignment, now its just a final.)
