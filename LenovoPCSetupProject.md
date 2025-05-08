@@ -52,7 +52,7 @@ Steps followed:
 
 ---
 
-## 🔐 Remote IT Role-Based Access
+## 🔐 Role-Based Access
 
 Testing user roles and local administrative separation.  
 ➡️ [View Role Access Setup](./roleaccess.md)
