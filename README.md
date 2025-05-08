@@ -13,6 +13,7 @@
   - [Lenovo PC Setup Project](/LenovoPCSetupProject.md)
   - [Role Access on leovo lab](/roleaccess.md)
 - <b>Lenovo latptop upgrading</b>
+  - [Lenovo Laptop upgrade](/lenovolaptopupgrade.md)
 - <b>Intalling VirtualBox on Microsoft Surface Pro</b>
   - [Installing Virtual Box on Surface Pro](/Installing_Virtual_Box.md)
     
