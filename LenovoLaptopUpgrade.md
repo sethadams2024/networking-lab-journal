@@ -32,6 +32,8 @@ This guide provides step-by-step instructions for upgrading the Lenovo 330s, spe
 - Use a plastic pry tool to detach the panel gently.
 
 <h1> Currently waiting on parts before moving forward to next steps</h1>
+
+
 ### 2️⃣ **Upgrade the M.2 SSD:**
 - Locate the M.2 SSD slot.
 - Unscrew and remove the existing 16GB SSD.
