@@ -18,7 +18,7 @@ Networking fundamentals
 
 Lab simulations and walkthroughs
 
-CompTIA A+ / Network+ / Security+ prep
+CompTIA A+
 
 Cisco Networking Academy (Network Technician Path)
 
@@ -31,7 +31,7 @@ IT ticketing systems and network troubleshooting
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🗓️ Daily Logs
 Each day documents what I worked on, what I learned, and any tools or configurations I tested.
-🔗 See the full log: Daily Journal Entries (recommend you move your daily logs to journal.md for easier reading and linking)
+🔗 See the full log: Daily Journal Entries
 
 
 Here’s a preview of key days:
@@ -56,7 +56,7 @@ Role-Based Access Lab
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📅 Next Steps
-Continue A+ practice tests and schedule Core 1 exam by mid-June.
+Continue A+ practice tests and schedule the Core 1 exam by mid-June.
 
 Launch a dual-boot Linux setup on my lab PC.
 
