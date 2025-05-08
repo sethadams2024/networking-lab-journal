@@ -1,46 +1,69 @@
-Hello!
+# 🖥️ Lenovo Lab PC Setup (Donated System)
 
-This is to cover a pc I got from a family friend.
+This system was donated by a family friend. It’s now part of my IT and networking home lab for experimentation and learning.
 
-My code must have been deleted due to my error, so here is what has happened so far:
+---
 
-- I looked into the PC, no GPU, so it runs on the CPU.
-- 12GB of DDR3-1600 MHZ
-- Couldn't get into the user's account and so I wiped the whole thing clean
+## 🛠️ Initial System Setup
 
-The reset process was stuck on 22%, so I forced it to shut down, and then I powered it on. Now it is Windows setup for Windows 10.
+- **Initial Specs**:
+  - **CPU**: AMD A10-7800 with integrated graphics
+  - **Motherboard**: Lenovo Bantry CRB (PCIe 3.0, 8.0GT/s)
+  - **Memory**: 1 × 12GB DDR3 1600MHz + 1 × 4GB DDR3 1600MHz (Total: 16GB)
+  - **Storage**: HDD (planned upgrade to SSD)
+  - **GPU**: None (using integrated graphics from APU)
 
-I forgot to disconnect the internet to bypass user creation, but it's fine. I made sure to limit every bit of control Microsoft can have since it's a very old computer.
+- **Initial Actions**:
+  - System reset stuck at 22%; forced shutdown and restarted successfully.
+  - Forgot to disconnect Wi-Fi during setup (unable to bypass Microsoft login).
+  - Configured with local admin account and limited Microsoft telemetry.
+  - Created two standard users (`User1111`, `User2222`) for testing purposes.
+  - Performed full system updates post-installation.
 
-I got into the system and looked around
-- created two system accounts to eventually test password resets with
+---
 
-I updated the system to a new software version, and it's been slow, but it's expected. I will "Submit a ticket" to resolve the issue by installing a new SSD when the system clears.
-Then it will teach me how to clone the OS and then move the boot to the SSD (need the UEFI for that). It finally updated, on to the next Phase
+## 🔧 Tools & Software Installed
 
----------------------------------------------------------------------------------------------------------------------------------------------
-Componnets of the PC
-1. Download and installed CPU-Z to the desktop
-2. Opened it and looked at the various components.
+- **CPU-Z**:
+  - Installed and used to inspect CPU, RAM, and motherboard specs.
 
-CPU: AMD A10-7800
-Motherboard: Lenovo Bantry CRB PCIE 3.0 (8.0GT/s)
-Memory: 1 stick of 12gb DDR3 1600Mhz, another 1 stick of 4gb DDR3 1600MHz
-No GPU, graphics through the A10
+---
 
-Potential Upgrades in the future: 
-- Simple SSD 
-- Upgrade Ram to a higher DDR3 speed
-- potentially upgrade CPU FAN and CPU?
+## 🛠️ Planned Hardware Upgrades
 
-I don't want to risk the various components when I am treating this as a workstation.
-------------------------------------------------------------------------------------------------------------------------------------------
-Installing Users
-1. Go to Settings -> account -> Family and other users
-2. I skipped adding emails and what not and added 2 users (User1111) and (User2222) and my own account. The other two are standard accounts and 
-cannot have admin permissions.
-----------------------------------------------------------------------------------------------------------------------------------------
-<h2> Setting up remote IT access </h2>
+- ✅ **Install SSD** (to replace current slow HDD)
+  - Will clone OS and reconfigure boot settings in UEFI.
+- 🧠 **Upgrade RAM** (prefer matched modules for dual-channel performance)
+- ❄️ **Replace CPU Fan** (optional; if thermal issues arise during load testing)
 
-To start the role access I created a seperate area
-[role access for lenovo](/roleaccess.md)
+---
+
+## 👤 User Management Setup
+
+Steps followed:
+
+1. Opened `Settings → Accounts → Family & Other Users`
+2. Created:
+   - Admin account (my own)
+   - Two local standard accounts:
+     - `User1111`
+     - `User2222`
+3. Skipped Microsoft account linking for all users.
+
+---
+
+## 🔐 Remote IT Role-Based Access
+
+Testing user roles and local administrative separation.  
+➡️ [View Role Access Setup](./roleaccess.md)
+
+---
+
+## 🧪 Learning Objectives
+
+- Practice cloning and migrating OS to SSD  
+- Explore BIOS/UEFI configuration and boot management  
+- Test account permissions and local user administration  
+- Simulate real-world IT support tasks (e.g., user lockouts, password resets)  
+- Document and manage tasks using my osTicket-based ticketing system  
+
