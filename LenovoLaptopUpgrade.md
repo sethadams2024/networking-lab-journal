@@ -59,10 +59,5 @@ This guide provides step-by-step instructions for upgrading the Lenovo 330s, spe
 - Run a memory diagnostic test.
 - Check disk health and partition new storage if necessary.
 
----
 
-### 💡 *Tip:* Consider a fresh OS install for maximum performance gains!
 
----
-
-Created by Seth Adams | Last Updated: May 2025
