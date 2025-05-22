@@ -190,3 +190,20 @@ Day 28 5.8
 Day 29 5.9 
 - Completed R class!
 - 
+
+-----------------------------------------------------------------------------------------------------
+Got MARRIED
+
+--------------------------------------------------------------------------------------------------
+Day 30 5.22
+- Had to take a break and readjust myself to prepare for some life changes
+  1. Got married
+  2. Honeymoon to Disney World
+  3. New job starting June 2nd
+  4. New class over N10-007
+  5. A+ exam on June 9th
+  6. Starting to flip electronics $ for certifications
+
+ - Now, I will be having a journal over flipping PC's as well
+- Today, I submitted discussion responses for my master's class, now I need to read over the 2 chapters and finish two assignments before the 25th.
+------------------------------------------------------------------------------------------------
