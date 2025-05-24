@@ -207,3 +207,8 @@ Day 30 5.22
  - Now, I will be having a journal over flipping PC's as well
 - Today, I submitted discussion responses for my master's class, now I need to read over the 2 chapters and finish two assignments before the 25th.
 ------------------------------------------------------------------------------------------------
+Day 31 5.23
+- Got the switch up for sale yesterday, plan on putting a laptop up for sale tomorrow
+- PC flip parts arrive tomorrow to Sunday!
+Finished Chapter 1 today for my masters, will finish chapter 2 tomorrow and then finish assignments
+I have been lackluster in doing A+ studying, I have time but I need to get back into the groove.
