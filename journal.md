@@ -209,6 +209,12 @@ Day 30 5.22
 ------------------------------------------------------------------------------------------------
 Day 31 5.23
 - Got the switch up for sale yesterday, plan on putting a laptop up for sale tomorrow
-- PC flip parts arrive tomorrow to Sunday!
-Finished Chapter 1 today for my masters, will finish chapter 2 tomorrow and then finish assignments
-I have been lackluster in doing A+ studying, I have time but I need to get back into the groove.
+- PC flip parts arrive tomorrow through Sunday!
+Finished Chapter 1 today for my master's, will finish Chapter 2 tomorrow, and then finish assignments
+I have been lackluster in doing A+ studying. I have time, but I need to get back into the groove.
+---------------------------------------------------------------------------------------------
+
+Season 2 of my journal.
+- I start a new job on Monday!
+- Got my lenovo laptop, switch, and the gaming pc up for sale.
+- I didn't do well on my first module assignments, but I readjusted my focus.
