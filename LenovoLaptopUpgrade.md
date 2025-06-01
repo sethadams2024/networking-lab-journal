@@ -1,4 +1,4 @@
-# Lenovo 330s Upgrade Guide
+# Lenovo 330s Upgrade Guide (COMPLETED AND SOLD)
 
 This guide provides step-by-step instructions for upgrading the Lenovo 330s, specifically focusing on upgrading the M.2 SSD, replacing the HDD with an SSD, and expanding the RAM to 20GB.
 
