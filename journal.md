@@ -218,3 +218,13 @@ Season 2 of my journal.
 - I start a new job on Monday!
 - Got my lenovo laptop, switch, and the gaming pc up for sale.
 - I didn't do well on my first module assignments, but I readjusted my focus.
+-------------------------------------------------------------------------------------------------
+5/31
+
+- I was able to get several networking equipment to test and have for my apartment. it is overkill, but worth it.
+1. Cisco 2960 switch
+2. Cisco aSA 5520
+3. Cisco 1900 Series
+4. BIG-IP 3600 series.
+
+I have NO idea where to start. But here is my md for it 
