@@ -98,3 +98,13 @@ Now I am following the manual for the router
    1. connected the switch to the ehternet wall port, the  connected it to the gaming pc
    2. had trouble getting the right IP. So I downloaded ProSAFE Plus Utility and it helped discover the IP, and got to the config page.
 
+---------------------------------------------------------------------------------------------------
+5/31
+I have recived the holy grail
+1. cisco 2960
+2. Cisco ASA 5520
+3. Cisco 1900 series
+4. BIG-IP 3600 Series
+
+All for $125 USD. Here is my now process of setting it up.
+
