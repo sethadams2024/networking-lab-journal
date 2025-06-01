@@ -63,4 +63,5 @@ Launch a dual-boot Linux setup on my lab PC.
 Begin deeper TryHackMe and Network+ training.
 
 
-
+------------------------------------------------------------------------------------------
+Season 2 of doing networking, and growing in my career.
