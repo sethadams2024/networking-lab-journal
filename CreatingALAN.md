@@ -108,3 +108,124 @@ I have recived the holy grail
 
 All for $125 USD. Here is my now process of setting it up.
 
+
+
+# 🧠 Home Lab: Integrating Cisco & F5 Gear
+
+## 🧰 Equipment Inventory
+
+| Device              | Model                 | Purpose                    |
+|---------------------|------------------------|-----------------------------|
+| Switch (Layer 2)     | Cisco Catalyst 2960     | Core switch for LAN         |
+| Router (Edge)        | Cisco 1900 Series       | Future gateway/router       |
+| Firewall             | Cisco ASA 5520         | To be added (security edge) |
+| Load Balancer        | F5 Big-IP 3600         | To be added (app delivery)  |
+| Smart Switch         | Netgear 5-Port         | Consumer-grade switch       |
+| PC                   | Windows 11 Host        | Management + testing        |
+| ISP                  | Gigstreem              | Apartment Gigabit Ethernet  |
+
+---
+
+## 🛠 Initial Goals
+
+1. Integrate Cisco Catalyst 2960 into home LAN
+2. Understand basic switching, VLANs, and interface behavior
+3. Run internet traffic through the Cisco switch
+4. Prepare for router/firewall integration later
+
+---
+
+## 🔌 Initial Physical Setup
+
+[Apartment Wall Ethernet]  → [Cisco 2960 Gi0/2]  → [Cisco 2960 Gi0/1]  → PC
+
+
+
+
+> Previously:
+> Apartment Wall → Netgear → PC (800 Mbps speed test)
+
+---
+
+## ⚙️ Basic Switch Configuration
+
+```plaintext
+hostname SW1
+!
+interface Vlan1
+ ip address 172.16.230.10 255.255.255.0
+ no ip route-cache
+!
+ip default-gateway 172.16.230.1
+!
+interface GigabitEthernet0/1
+ switchport mode access
+ no shutdown
+!
+interface GigabitEthernet0/2
+ switchport mode access
+ no shutdown
+Confirmed:
+
+Switch responds to ping on 172.16.230.10
+
+Interfaces are up/up
+
+```
+
+🧪 Testing & Troubleshooting
+
+✅ Link Tests
+Test	Result
+
+PC → Netgear (direct)	✅ ~800 Mbps
+
+PC → 2960 (Gi0/1)	❌ ~220 Mbps
+
+Apartment wall → Netgear → PC	✅ ~800 Mbps
+
+Apartment wall → 2960 → PC	❌ ~220 Mbps
+
+❓ Why the Drop?
+Investigated and ruled out:
+
+✅ Cable quality (Cat5e)
+
+✅ Gigabit link status on PC and switch (a-full a-1000)
+
+✅ Clean config, no ACLs or QoS in place
+
+✅ Switch port statistics showed no major errors
+
+📉 Root Cause Analysis
+Possible Cause	Outcome
+Internal switching backplane limit	Likely ✔️
+Hardware limitation of 2960 (older model)	Confirmed
+Duplex mismatch	❌ Not observed
+Interface errors (CRC/input/output)	❌ Clean stats
+ISP cap or shaping	❌ 800 Mbps via Netgear proves otherwise
+
+🧩 Workaround Strategy
+🟢 Use Cisco 2960 for lab/testing only
+
+🔁 For high-speed gaming and downloads, route through Netgear
+
+⚙️ Add router/firewall/VLAN later for advanced testing
+
+📌 Notes & Tips
+Cisco 2960 has shared internal bus on gigabit ports — not true line-rate under load
+
+Use show interface gi0/1 to verify link speed and errors
+
+Store config with: write memory or copy running-config startup-config
+
+Can run speed and duplex commands to hard-set link negotiation if needed
+
+📈 Next Steps
+ Integrate Cisco 1900 router and setup NAT/DHCP
+
+ Add VLANs to the 2960 for segmentation
+
+ Bring Cisco ASA 5520 online for security testing
+
+ Connect and configure F5 Big-IP 3600 for load balancing simulation
