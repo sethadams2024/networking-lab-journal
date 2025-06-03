@@ -229,3 +229,106 @@ Can run speed and duplex commands to hard-set link negotiation if needed
  Bring Cisco ASA 5520 online for security testing
 
  Connect and configure F5 Big-IP 3600 for load balancing simulation
+
+
+# Networking Lab Recap
+
+## Setup Overview
+- Devices:
+  - Cisco 1921 Router (IOS 15.4(3)M3)
+  - Netgear Switch
+- Goal: Configure a basic home/office network with NAT to allow LAN devices internet access.
+- IP scheme decided: Use 172.16.230.0/24 for WAN side and 10.10.10.0/24 for LAN side.
+
+---
+
+## Step 1: Initial Attempts and Troubleshooting
+
+### Issues Encountered:
+- Ethernet adapter showed "Unidentified Network - No Connection" when plugged into router.
+- Unable to see NAT translations using `show ip nat translations`.
+- Router did not recognize `ip inspect` commands due to IOS license limitations (securityk9 license was not active).
+- Client machines had incorrect or autoconfigured IPs (169.254.x.x) indicating no DHCP.
+- Ping to external IPs like 8.8.8.8 failed initially.
+- Gateway of last resort was misconfigured as `0.0.0.0` to `0.0.0.0`, indicating no proper default route.
+
+### Actions Taken:
+- Reset router to factory defaults to clear any misconfigurations.
+- Re-plugged cables directly to router ports.
+- Verified physical connections and IP assignments on router interfaces.
+- Chose consistent private IP range (switched from 192.168.x.x to 172.16.x.x, then to 10.x.x.x for LAN).
+- Ensured GigabitEthernet0/1 (WAN) interface was getting IP via DHCP.
+- Configured ACL and NAT properly.
+
+-----------------------------------------
+
+## Step 2: Clean Configuration
+
+- Configured interfaces:
+
+
+interface GigabitEthernet0/0
+
+ description LAN - Internal Network
+ 
+ ip address 10.10.10.1 255.255.255.0
+
+ ip nat inside
+
+interface GigabitEthernet0/1
+ 
+ description WAN - ISP
+ 
+ ip address dhcp
+ 
+ ip nat outside
+
+Created ACL permitting LAN subnet:
+
+access-list 1 permit 10.10.10.0 0.0.0.255
+
+
+Configured NAT overload:
+
+
+ip nat inside source list 1 interface GigabitEthernet0/1 overload
+
+
+Step 3: Verification
+
+Verified routing table showing:
+
+Connected LAN subnet 10.10.10.0/24
+
+DHCP assigned WAN IP in 172.16.230.0/24
+
+Default route pointing to WAN interface IP
+
+Tested ping to external IP 8.8.8.8 from router (initially failed, then succeeded after correct config).
+
+Verified NAT translations were created after generating traffic.
+
+Confirmed client PC received proper IP and gateway from router and could access internet.
+
+------------------------------------------------------------------
+Summary of Troubleshooting
+
+| Problem                             | Cause / Observation                       | Resolution                                      |
+|-----------------------------------|-----------------------------------------|------------------------------------------------|
+| No connection on Ethernet interface | Incorrect IP scheme, no DHCP, wrong cabling | Reset router, verify physical connections, use consistent IP scheme (10.x.x.x) |
+| `ip inspect` command not recognized | Missing active securityk9 license       | Accepted EULA or bypassed for now; used manual NAT instead |
+| NAT translations not showing       | No traffic generated or incomplete config | Added ACL, configured NAT overload, generated traffic |
+| Client auto IP (169.254.x.x)       | No DHCP or no connection to router      | Verified router interface up, client connected properly, assigned correct IP |
+| Ping to internet failed            | No default route or WAN interface down  | Confirmed WAN DHCP lease, ensured default route from DHCP was set |
+
+
+| Final Notes                             | Explanation / Advice                                         |
+|---------------------------------------|-------------------------------------------------------------|
+| Always verify physical connections    | Check cables and interfaces before troubleshooting IP issues |
+| Keep IP addressing consistent         | Using one private IP scheme (e.g., 10.x.x.x) reduces confusion |
+| Confirm license status early           | Missing licenses can disable key features like inspection/NAT |
+| Use basic NAT with ACL as fallback     | When advanced features aren’t available, standard NAT and ACL work well |
+| Verify DHCP assignments on WAN         | Router getting IP, gateway, and DNS from ISP is crucial     |
+| Restart fresh if configs get messy     | Sometimes a reset and starting over is faster than troubleshooting unknown configs |
+| Generate traffic to test NAT           | NAT translations don’t show until traffic flows through router |
+| Use `show` commands liberally          | `show ip int brief`, `show ip route`, `show access-list` help identify issues quickly |
